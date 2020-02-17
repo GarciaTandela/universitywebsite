@@ -1,0 +1,52 @@
+*
+{
+margin: 0;
+padding: 0;
+border: none;
+outline: none;
+font-weight: 300;
+box-sizing: border-box;
+font-family: 'Montserrat', sans-serif;
+}
+
+body{
+	background-color: #f6f6f6;
+}
+
+a{
+	text-decoration: none;
+}
+
+ul{
+	list-style: none;
+}
+
+.logo
+{
+	width: 15rem;
+	height: auto;
+}
+
+.btn-extend {
+  display: block;
+  width: 100%;
+}
+
+.esqueci
+{
+	margin-bottom: 15px;
+	text-decoration: underline;
+}
+
+.central
+{
+	margin-top: 7%;
+}
+
+@media screen and (max-width: 900px){
+	.central
+	{
+		margin-top: 15%;
+	}
+}
+
