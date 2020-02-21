@@ -1,7 +1,7 @@
 # universitywebsite
 This project was created by me for my university, and it contains some information about her. You can use it for study
 
-Developed with HTML + CSS + Materialize and JQuery
+Developed with HTML + CSS + Materialize + JQuery + Javascript
 
 Requirements:
 
